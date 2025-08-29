@@ -6,3 +6,4 @@ databases
 python-dotenv
 fastapi-users[sqlalchemy2]
 alembic
+databases
